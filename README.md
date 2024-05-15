@@ -12,3 +12,8 @@ Solution to the Top Interview 150 study plan of LeetCode in Python
 |[19.Remove Nth Node From End of List](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.py3)|Linked List Traversal with Two Pointer|O(N)|O(1)
 |[380.Insert Delete GetRandom O(1)](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/380.%20Insert%20Delete%20GetRandom%20O(1).py3)|Miscellaneous|O(1)|O(N)
 |[130.Surrounded Regions](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/130.%20Surrounded%20Regions.py3)|Depth First Search|O(N^2)|O(N^2)
+|[201.Bitwise AND of Numbers Range](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/201.%20Bitwise%20AND%20of%20Numbers%20Range.py3)|Bitwise Operations|O(log N)|O(1)
+|[141.Linked List Cycle](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/141.%20Linked%20List%20Cycle.py3)|Floyd's Cycle Detection Algo|O(N)|O(1)
+|[322.Coin Change](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/322.%20Coin%20Change.py3)|Dynamic Programming|O(amount*N)|O(amount*N)
+|[173.Binary Search Tree Iterator](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/173.%20Binary%20Search%20Tree%20Iterator.py3)|Stack Iterator|O(N)|O(N)
+|[290.Word Pattern](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/290.%20Word%20Pattern.py3)|Two way mapping HashMap|O(N)|O(N)
