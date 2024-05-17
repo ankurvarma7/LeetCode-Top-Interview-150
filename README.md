@@ -23,3 +23,8 @@ Solution to the Top Interview 150 study plan of LeetCode in Python
 |[45.Jump Game II](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/45.%20Jump%20Game%20II.py3)|Dynamic Programming|O(N)|O(N)
 |[392.Is Subsequence](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/392.%20Is%20Subsequence.py3)|Recursion|O(N)|O(N)
 |[52.N-Queens II](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/52.%20N-Queens%20II.py3)|Backtracking|O(N!)|O(N)
+|[134.Gas Station](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/134.%20Gas%20Station.py3)|Greedy|O(N)|O(1)
+|[207.Course Schedule](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/207.%20Course%20Schedule.py3)|Topological Sort|O(V+E)|O(V+E)
+|[27.Remove Element](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/27.%20Remove%20Element.py3)|Miscellaneous|O(N)|O(1)
+|[238.Product of Array Except Self](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/238.%20Product%20of%20Array%20Except%20Self.py3)|Prefix and Suffix Product|O(N)|O(1)
+|[128.Longest Consecutive Sequence](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/128.%20Longest%20Consecutive%20Sequence.py3)|Miscellaneous|O(N)|O(N)
