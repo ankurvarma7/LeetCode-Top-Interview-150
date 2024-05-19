@@ -28,3 +28,10 @@ Solution to the Top Interview 150 study plan of LeetCode in Python
 |[27.Remove Element](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/27.%20Remove%20Element.py3)|Miscellaneous|O(N)|O(1)
 |[238.Product of Array Except Self](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/238.%20Product%20of%20Array%20Except%20Self.py3)|Prefix and Suffix Product|O(N)|O(1)
 |[128.Longest Consecutive Sequence](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/128.%20Longest%20Consecutive%20Sequence.py3)|Miscellaneous|O(N)|O(N)
+|[219.Contains Duplicate II](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/219.%20Contains%20Duplicate%20II.py3)|Miscellaneous|O(N)|O(N)
+|[17.Letter Combinations of a Phone Number](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.py3)|Backtracking|O(N*4^N)|O(N)
+|[222.Count Complete Tree Nodes](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/222.%20Count%20Complete%20Tree%20Nodes.py3)|Miscellaneous|O(log N * log N)|O(log N)
+|[530.Minimum Absolute Difference in BST
+](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/530.%20Minimum%20Absolute%20Difference%20in%20BST.py3)|Inorder Travesal|O(N)|O(N)
+|[198.House Robber](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/198.%20House%20Robber.py3)|Dynamic Programming|O(N)|O(N)
+|[39.Combination Sum](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/39.%20Combination%20Sum.py3)|Backtracking|O(2^target/min)|O(target/min)
