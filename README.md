@@ -35,3 +35,6 @@ Solution to the Top Interview 150 study plan of LeetCode in Python
 ](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/530.%20Minimum%20Absolute%20Difference%20in%20BST.py3)|Inorder Travesal|O(N)|O(N)
 |[198.House Robber](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/198.%20House%20Robber.py3)|Dynamic Programming|O(N)|O(N)
 |[39.Combination Sum](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/39.%20Combination%20Sum.py3)|Backtracking|O(2^target/min)|O(target/min)
+|[14.Longest Common Prefix](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/14.%20Longest%20Common%20Prefix.py3)|Trie|O(max len of word*number of words)|O(max len of word)
+|[162.Find Peak Element](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/162.%20Find%20Peak%20Element.py3)|Binary Search|O(log N)|O(1)
+|[242.Valid Anagram](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/242.%20Valid%20Anagram.py3)|HashMap|O(N)|O(1)
