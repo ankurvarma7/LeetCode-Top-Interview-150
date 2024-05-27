@@ -41,3 +41,5 @@ Solution to the Top Interview 150 study plan of LeetCode in Python
 |[97.Interleaving String](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/97.%20Interleaving%20String.py3)|Dynamic Programming|O(len1*len2)|O(len1*len2)
 |[5.Longest Palindromic Substring](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/5.%20Longest%20Palindromic%20Substring.py3)|Two Pointer|O(N^2)|O(1)
 |[226.Invert Binary Tree](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/226.%20Invert%20Binary%20Tree.py3)|Pre Order Traversal|O(N)|O(N)
+|[74.Search a 2D Matrix](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/74.%20Search%20a%202D%20Matrix.py3)|Binary Search|O(log m*n)|O(1)
+|[25.Reverse Nodes in k-Group](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/25.%20Reverse%20Nodes%20in%20k-Group.py3)|Linked List Reversal|O(N)|O(k)
