@@ -43,3 +43,4 @@ Solution to the Top Interview 150 study plan of LeetCode in Python
 |[226.Invert Binary Tree](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/226.%20Invert%20Binary%20Tree.py3)|Pre Order Traversal|O(N)|O(N)
 |[74.Search a 2D Matrix](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/74.%20Search%20a%202D%20Matrix.py3)|Binary Search|O(log m*n)|O(1)
 |[25.Reverse Nodes in k-Group](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/25.%20Reverse%20Nodes%20in%20k-Group.py3)|Linked List Reversal|O(N)|O(k)
+|[105.Construct Binary Tree from Preorder and Inorder Traversal.py3](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.py3)|PreOrder Traversal|O(N)|O(N)
