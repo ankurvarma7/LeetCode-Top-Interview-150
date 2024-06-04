@@ -44,3 +44,5 @@ Solution to the Top Interview 150 study plan of LeetCode in Python
 |[74.Search a 2D Matrix](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/74.%20Search%20a%202D%20Matrix.py3)|Binary Search|O(log m*n)|O(1)
 |[25.Reverse Nodes in k-Group](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/25.%20Reverse%20Nodes%20in%20k-Group.py3)|Linked List Reversal|O(N)|O(k)
 |[105.Construct Binary Tree from Preorder and Inorder Traversal.py3](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.py3)|PreOrder Traversal|O(N)|O(N)
+|[53.Maximum Subarray](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/53.%20Maximum%20Subarray.py3)|Kadane's Algorithm|O(N)|O(1)
+|[209.Minimum Size Subarray Sum](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/209.%20Minimum%20Size%20Subarray%20Sum.py3)|Sliding Window|O(N)|O(1)
