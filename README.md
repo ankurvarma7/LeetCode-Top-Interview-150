@@ -54,3 +54,5 @@ Solution to the Top Interview 150 study plan of LeetCode in Python
 |[151.Reverse Words in a String](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/151.%20Reverse%20Words%20in%20a%20String.py3)|Miscellaneous|O(N)|O(1)
 |[236.Lowest Common Ancestor of a Binary Tree](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.py3)|Postorder Traversal|O(N)|O(N)
 |[3.Longest Substring Without Repeating Characters](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/3.%20Longest%20Substring%20Without%20Repeating%20Characters.py3)|Two pointers|O(N)|O(N)
+|[101.Symmetric Tree](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/101.%20Symmetric%20Tree.py3)|Level Order Traversal|O(N)|O(N)
+|[200.Number of Islands](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/200.%20Number%20of%20Islands.py3)|Depth First Search|O(rows*cols)|O(rows*cols)
