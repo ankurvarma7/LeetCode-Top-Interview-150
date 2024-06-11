@@ -56,3 +56,8 @@ Solution to the Top Interview 150 study plan of LeetCode in Python
 |[3.Longest Substring Without Repeating Characters](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/3.%20Longest%20Substring%20Without%20Repeating%20Characters.py3)|Two pointers|O(N)|O(N)
 |[101.Symmetric Tree](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/101.%20Symmetric%20Tree.py3)|Level Order Traversal|O(N)|O(N)
 |[200.Number of Islands](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/200.%20Number%20of%20Islands.py3)|Depth First Search|O(rows*cols)|O(rows*cols)
+|[136.Single Number](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/136.%20Single%20Number.py3)|Bitwise XOR|O(N)|O(1)
+|[72.Edit Distance](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/72.%20Edit%20Distance.py3)|Dynamic Programming|O(len of word1 * len of word2)|O(len of word1 * len of word2)
+|[149.Max Points on a Line](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/149.%20Max%20Points%20on%20a%20Line.py3)|Miscellaneous|O(N^2 * log max)|O(N)
+|[69.Sqrt(x)](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/69.%20Sqrt(x).py3)|Binary Search|O(log N)|O(1)
+|[80.Remove Duplicates from Sorted Array II](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II.py3)|Two pointers|O(N)|O(1)
