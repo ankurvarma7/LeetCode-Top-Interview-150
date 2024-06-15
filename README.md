@@ -61,3 +61,6 @@ Solution to the Top Interview 150 study plan of LeetCode in Python
 |[149.Max Points on a Line](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/149.%20Max%20Points%20on%20a%20Line.py3)|Miscellaneous|O(N^2 * log max)|O(N)
 |[69.Sqrt(x)](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/69.%20Sqrt(x).py3)|Binary Search|O(log N)|O(1)
 |[80.Remove Duplicates from Sorted Array II](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II.py3)|Two pointers|O(N)|O(1)
+|[399.Evaluate Division](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/399.%20Evaluate%20Division.py3)|Depth First Search|O((V+E)number of queries)|O(V+E)
+|[98.Validate Binary Search Tree](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/98.%20Validate%20Binary%20Search%20Tree.py3)|Post Order Traversal|O(N)|O(N)
+|[452.Minimum Number of Arrows to Burst Balloons](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.py3)|Greedy|O(N log N)|O(N or log N) as per the sorting algo
