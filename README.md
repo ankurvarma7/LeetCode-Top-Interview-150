@@ -67,3 +67,5 @@ Solution to the Top Interview 150 study plan of LeetCode in Python
 |[433.Minimum Genetic Mutation](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/433.%20Minimum%20Genetic%20Mutation.py3)|Breadth First Search|O(N)|O(N)
 |[188. Best Time to Buy and Sell Stock IV](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/188.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV.py3)|Dynamic Programming|O(N*k)|O(N*k)
 |[20.Valid Parentheses](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/20.%20Valid%20Parentheses.py3)|Miscellaneous|O(N)|O(N)
+|[289.Game of Life](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/289.%20Game%20of%20Life.py3)|Miscellaneous|O(rows*cols)|O(1)
+|[66.Plus One](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/66.%20Plus%20One.py3)|
