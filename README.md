@@ -64,3 +64,6 @@ Solution to the Top Interview 150 study plan of LeetCode in Python
 |[399.Evaluate Division](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/399.%20Evaluate%20Division.py3)|Depth First Search|O((V+E)number of queries)|O(V+E)
 |[98.Validate Binary Search Tree](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/98.%20Validate%20Binary%20Search%20Tree.py3)|Post Order Traversal|O(N)|O(N)
 |[452.Minimum Number of Arrows to Burst Balloons](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.py3)|Greedy|O(N log N)|O(N or log N) as per the sorting algo
+|[433.Minimum Genetic Mutation](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/433.%20Minimum%20Genetic%20Mutation.py3)|Breadth First Search|O(N)|O(N)
+|[188. Best Time to Buy and Sell Stock IV](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/188.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV.py3)|Dynamic Programming|O(N*k)|O(N*k)
+|[20.Valid Parentheses](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/20.%20Valid%20Parentheses.py3)|Miscellaneous|O(N)|O(N)
