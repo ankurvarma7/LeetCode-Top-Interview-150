@@ -68,4 +68,7 @@ Solution to the Top Interview 150 study plan of LeetCode in Python
 |[188. Best Time to Buy and Sell Stock IV](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/188.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV.py3)|Dynamic Programming|O(N*k)|O(N*k)
 |[20.Valid Parentheses](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/20.%20Valid%20Parentheses.py3)|Miscellaneous|O(N)|O(N)
 |[289.Game of Life](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/289.%20Game%20of%20Life.py3)|Miscellaneous|O(rows*cols)|O(1)
-|[66.Plus One](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/66.%20Plus%20One.py3)|
+|[66.Plus One](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/66.%20Plus%20One.py3)|Miscellaneous|O(N)|O(1)
+|[427.Construct Quad Tree](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/427.%20Construct%20Quad%20Tree.py3)|O(N^2 log N)|O(log N)
+|[125.Valid Palindrome](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/125.%20Valid%20Palindrome.py3)|Two Pointers|O(N)|O(1)
+|[114.Flatten Binary Tree to Linked List](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.py3)|Preorder Traversal|O(N)|O(N)
