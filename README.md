@@ -75,3 +75,5 @@ Solution to the Top Interview 150 study plan of LeetCode in Python
 |[77.Combinations](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/77.%20Combinations.py3)|Backtracking|O(2^N *k)|O(N)
 |[35.Search Insert Position](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/35.%20Search%20Insert%20Position.py3)|Binary Search|O(log N)|O(1)
 |[23.Merge k Sorted Lists](
+|[11.Container With Most Water](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/11.%20Container%20With%20Most%20Water.py3)|Two Pointers|O(N)|O(1)
+|[100.Same Tree](
