@@ -72,3 +72,6 @@ Solution to the Top Interview 150 study plan of LeetCode in Python
 |[427.Construct Quad Tree](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/427.%20Construct%20Quad%20Tree.py3)|O(N^2 log N)|O(log N)
 |[125.Valid Palindrome](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/125.%20Valid%20Palindrome.py3)|Two Pointers|O(N)|O(1)
 |[114.Flatten Binary Tree to Linked List](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.py3)|Preorder Traversal|O(N)|O(N)
+|[77.Combinations](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/77.%20Combinations.py3)|Backtracking|O(2^N *k)|O(N)
+|[35.Search Insert Position](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/35.%20Search%20Insert%20Position.py3)|Binary Search|O(log N)|O(1)
+|[23.Merge k Sorted Lists](
