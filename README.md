@@ -76,4 +76,6 @@ Solution to the Top Interview 150 study plan of LeetCode in Python
 |[35.Search Insert Position](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/35.%20Search%20Insert%20Position.py3)|Binary Search|O(log N)|O(1)
 |[23.Merge k Sorted Lists](
 |[11.Container With Most Water](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/11.%20Container%20With%20Most%20Water.py3)|Two Pointers|O(N)|O(1)
-|[100.Same Tree](
+|[100.Same Tree](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/100.%20Same%20Tree.py3)|Preorder Traversal|O(N)|O(N)
+|[199.Binary Tree Right Side View](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/199.%20Binary%20Tree%20Right%20Side%20View.py3)|Level Order Traversal|O(N)|O(N)
+|[2.Add Two Numbers](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/2.%20Add%20Two%20Numbers.py3)|Linked List Traversal|O(N)|O(1)
