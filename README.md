@@ -75,7 +75,13 @@ Solution to the Top Interview 150 study plan of LeetCode in Python
 |[77.Combinations](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/77.%20Combinations.py3)|Backtracking|O(2^N *k)|O(N)
 |[35.Search Insert Position](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/35.%20Search%20Insert%20Position.py3)|Binary Search|O(log N)|O(1)
 |[23.Merge k Sorted Lists](
+|[112.Path Sum](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/112.%20Path%20Sum.py3)|Preorder Traversal|O(N)|O(N)
+|[211.Design Add and Search Words Data Structure](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/211.%20Design%20Add%20and%20Search%20Words%20Data%20Structure.py3)|Trie|O(len of word)|O(len of word)
 |[11.Container With Most Water](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/11.%20Container%20With%20Most%20Water.py3)|Two Pointers|O(N)|O(1)
+|[92.Reverse Linked List II](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/92.%20Reverse%20Linked%20List%20II.py3)|Linked List Traversal|O(N)|O(1)
+|[71.Simplify Path](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/71.%20Simplify%20Path.py3)|Stack|O(N)|O(N)
 |[100.Same Tree](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/100.%20Same%20Tree.py3)|Preorder Traversal|O(N)|O(N)
 |[199.Binary Tree Right Side View](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/199.%20Binary%20Tree%20Right%20Side%20View.py3)|Level Order Traversal|O(N)|O(N)
 |[2.Add Two Numbers](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/2.%20Add%20Two%20Numbers.py3)|Linked List Traversal|O(N)|O(1)
+|[55.Jump Game](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/55.%20Jump%20Game.py3)|Greedy|O(N)|O(1)
+|[155.Min Stack](https://github.com/ankurvarma7/LeetCode-Top-Interview-150/blob/main/155.%20Min%20Stack.py3)|Stack|O(1)|O(N)
